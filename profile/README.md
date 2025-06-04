@@ -58,7 +58,7 @@ Amoosha offers a wide array of features tailored to the needs of every user:
 We believe in the power of collaboration and welcome contributions from the community! If you're interested in contributing to any of our projects:
 
 1.  Explore our project repositories within the [Amoosha-Platform GitHub organization](https://github.com/Amoosha-Platform).
-2.  Check for `CONTRIBUTING.md` files in individual project repositories for specific guidelines.
+2.  Check for [`CONTRIBUTING.md`](https://github.com/Amoosha-Platform/.github/blob/main/CONTRIBUTING.md) files in individual project repositories for specific guidelines.
 3.  Feel free to open issues for bugs, feature requests, or discussions.
 4.  Submit pull requests for your contributions.
 
