@@ -8,9 +8,9 @@ At this stage, we are coordinating contributions directly. If you are interested
 
 You can find ways to contact us through:
 
-* **Owner's Website:** [aryagorjipour.ir](http://aryagorjipour.ir)
+* **Owner's Website:** [aryagorjipour.com](https://aryagorjipour.com)
 * **Email:**
-    * [contact@aryagorjipour.ir](mailto:contact@aryagorjipour.ir)
+    * [hello@aryagorjipour.com](mailto:hello@aryagorjipour.com)
     * [contactamoosha@gmail.com](mailto:contactamoosha@gmail.com)
 
 Please provide details about your area of interest or the specific contribution you have in mind.
