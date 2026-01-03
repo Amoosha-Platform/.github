@@ -4,7 +4,7 @@
 
 Amoosha is a comprehensive educational ecosystem designed to empower teachers, engage students, and involve parents in the learning journey. Our platform provides a suite of integrated tools and services to manage and enhance the educational experience.
 
-**Visit our official website:** [https://amoosha.ir](https://amoosha.ir)
+**Visit our official website:** [https://amoosha.app](https://amoosha.app)
 
 ## About Amoosha Platform
 
@@ -66,7 +66,7 @@ We appreciate your interest in making Amoosha better!
 
 ## Contact & Support
 
-* **Website:** [https://amoosha.ir](https://amoosha.ir)
+* **Website:** [https://amoosha.app](https://amoosha.app)
 * **Support/Issues:** Please open an issue in the relevant project repository. For general platform inquiries, refer to our website.
 
 ---
